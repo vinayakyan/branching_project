@@ -1,3 +1,7 @@
+'''
+    main.py contains the logic for calculating addition of odd numbers as well as addition of even numbers.
+'''
+
 print("Program Starts")
 
 add = 0
