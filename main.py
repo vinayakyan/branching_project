@@ -1,3 +1,7 @@
+'''
+    This is a docstring of main.py
+'''
+
 print("Program Starts")
 
 add = 0
